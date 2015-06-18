@@ -13,5 +13,5 @@ var x = [1, 4, 3, 6];
 // for each array element.
 var result = x.reduce(app.process);
 //
-//console.log(result)
+console.log(result)
 
